@@ -1,6 +1,7 @@
 #The task is to generate a random story every time user runs the program.
 # Importing the required modules
 import random
+# Here values are stored in the list by theses values random story will be formed.
 when = ['Once upon a time','A few years ago', 'Tomorrow', 'Last night', 'A long time ago','Since 2005','Everyday','Once a long ago']
 who = ['Rahul and Meena', 'a stranger', 'some friends', 'Relatives','some animals','a boy and a girl','students','some engineer and doctors']
 went = ['went to cinema hall', 'went to their university','go to seminar', 'go to water park', 'gone to ammusement park']
@@ -12,6 +13,6 @@ def main():
 # Calling the main function
 if __name__  == '__main__':
     main()
-
+# here the code of this program complete
 
     
